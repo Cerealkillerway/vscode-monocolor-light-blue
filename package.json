@@ -1,7 +1,7 @@
 {
     "name": "ck-monocolor-light-blue",
     "publisher": "cerealkiller",
-    "repository": "git@github.com:Cerealkillerway/vscode-monocolor-light-blue.git",
+    "repository": "https://github.com/Cerealkillerway/vscode-monocolor-light-blue.git",
     "displayName": "ck-monocolor-light-blue",
     "description": "monocolor syntax theme",
     "version": "1.1.1",
